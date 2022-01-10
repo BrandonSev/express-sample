@@ -21,8 +21,6 @@ git clone https://github.com/BrandonSev/express-sample
 
 #### Installer les différents packages
 
-<br>
-
 #### Pnpm:
 
 #
@@ -48,8 +46,6 @@ npm i
 ```
 
 ## Deuxième étape
-
-#
 
 Duplicate ".env.sample" and rename to ".env"
 
