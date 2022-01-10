@@ -1,0 +1,27 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "Starter template express/mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonSev/express-sample.git"
+  },
+  "keywords": [
+    "express",
+    "starter",
+    "template",
+    "express",
+    "mysql",
+    "project"
+  ],
+  "author": "BrandonSev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonSev/express-sample/issues"
+  },
+  "homepage": "https://github.com/BrandonSev/express-sample#readme"
+}
