@@ -47,9 +47,8 @@ npm i
 
 ## Deuxième étape
 
-Duplicate ".env.sample" and rename to ".env"
-
-Change it with your values
+Dupliquer le fichier ".env.sample"
+Renommer le en ".env"
 
 #
 
