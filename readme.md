@@ -1,4 +1,4 @@
-# Template Express Starter
+# Starter Express Project / BrandonSev
 
 Dépot initialisant un projet nodeJS / Express / Mysql2.
 Liste des packages pré-configuré ci-dessous:
