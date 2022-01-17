@@ -9,6 +9,7 @@ Liste des packages pré-configuré ci-dessous:
 - mysql2
 - jest
 - prettier
+- eslint - rules Airbnb
 - db-migrate
 
 ## Installation
